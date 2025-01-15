@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Test output
+*.log
+*.xml
+*.coverage
+nosetests.xml
+coverage.xml
+
+# IDE settings
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest cache
+.cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables file
+.env
